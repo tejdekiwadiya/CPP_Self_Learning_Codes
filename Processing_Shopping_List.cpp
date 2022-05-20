@@ -81,7 +81,7 @@ int main()
 	int code;
 
 	do {
-		cout << "1. Add An Item &Price \n2. Display Total \n3. Display An Item &Price \n4. Remove Item \n5. Quit";
+		cout << "1. Add An Item & Price \n2. Display Total \n3. Display An Item & Price \n4. Remove Item \n5. Quit";
 		cout << "\n\nEnter Choice: ";
 		cin >> code;
 
