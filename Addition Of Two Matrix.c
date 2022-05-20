@@ -7,6 +7,12 @@ using namespace std;
 int main()
 {
     cout << "Created By: Tej Dekiwadiya" << endl;
+    cout << "Created By: Tej Dekiwadiya" << endl
+         << "Github: https://github.com/tejdekiwadiya" << endl
+         << "LinkedIN: https://linkedin.com/tejdekiwadiya" << endl
+         << "Twitter: https://twitter.com/tejdekiwadiya" << endl
+         << "Instagram: https://instagram.com/tejdekiwadia" << endl
+         << endl;
 
     int row;
     cout << ">> Enter Number Of Row:     ";
