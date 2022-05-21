@@ -12,11 +12,11 @@ struct inch_feet
 
 int main()
 {
-    cout << "Created By: Tej Dekiwadiya" << endl
-         << "Github: https://github.com/tejdekiwadiya" << endl
-         << "LinkedIN: https://www.linkedin.com/in/tejdekiwadiya" << endl
-         << "Twitter: https://twitter.com/tejdekiwadiya" << endl
-         << "Instagram: https://instagram.com/tejdekiwadia" << endl
+    cout << ">> Created By: Tej Dekiwadiya" << endl
+         << ">> Github: https://github.com/tejdekiwadiya" << endl
+         << ">> LinkedIN: https://www.linkedin.com/in/tejdekiwadiya" << endl
+         << ">> Twitter: https://twitter.com/tejdekiwadiya" << endl
+         << ">> Instagram: https://instagram.com/tejdekiwadia" << endl
          << endl;
 
     inch_feet v1, v2;
