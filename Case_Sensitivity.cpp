@@ -8,11 +8,11 @@ Modify Date: ----------*/
 using namespace std;
 int main()
 {
-    cout << "Created By: Tej Dekiwadiya" << endl
-         << "Github: https://github.com/tejdekiwadiya" << endl
-         << "LinkedIN: https://www.linkedin.com/in/tejdekiwadiya" << endl
-         << "Twitter: https://twitter.com/tejdekiwadiya" << endl
-         << "Instagram: https://instagram.com/tejdekiwadia" << endl
+    cout << ">> Created By: Tej Dekiwadiya" << endl
+         << ">> Github: https://github.com/tejdekiwadiya" << endl
+         << ">> LinkedIN: https://www.linkedin.com/in/tejdekiwadiya" << endl
+         << ">> Twitter: https://twitter.com/tejdekiwadiya" << endl
+         << ">> Instagram: https://instagram.com/tejdekiwadia" << endl
          << endl;
 
     string line;
