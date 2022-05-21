@@ -10,12 +10,13 @@ class binary
 {
 	string binary;
 	string binary2;
-	public:
-		void getinput()
-		{
-			cout << "Enter Binary Code:\t";
-			cin >> binary;
-		}
+
+public:
+	void getinput()
+	{
+		cout << "Enter Binary Code:\t";
+		cin >> binary;
+	}
 
 	void verify()
 	{
@@ -50,12 +51,12 @@ class binary
 
 int main()
 {
-    cout << "Created By: Tej Dekiwadiya" << endl
-         << "Github: https://github.com/tejdekiwadiya" << endl
-         << "LinkedIN: https://www.linkedin.com/in/tejdekiwadiya" << endl
-         << "Twitter: https://twitter.com/tejdekiwadiya" << endl
-         << "Instagram: https://instagram.com/tejdekiwadia" << endl
-         << endl;
+	cout << ">> Created By: Tej Dekiwadiya" << endl
+		 << ">> Github: https://github.com/tejdekiwadiya" << endl
+		 << ">> LinkedIN: https://www.linkedin.com/in/tejdekiwadiya" << endl
+		 << ">> Twitter: https://twitter.com/tejdekiwadiya" << endl
+		 << ">> Instagram: https://instagram.com/tejdekiwadia" << endl
+		 << endl;
 
 	binary obt1;
 	obt1.getinput();
