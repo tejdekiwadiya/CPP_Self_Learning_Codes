@@ -69,7 +69,7 @@ class shop
 
 int main()
 {
-	cout << ">> Created By: Tej Dekiwadiya" << endl
+    cout << ">> Created By: Tej Dekiwadiya" << endl
          << ">> Github: https://github.com/tejdekiwadiya" << endl
          << ">> LinkedIN: https://www.linkedin.com/in/tejdekiwadiya" << endl
          << ">> Twitter: https://twitter.com/tejdekiwadiya" << endl
