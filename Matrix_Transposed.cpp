@@ -14,17 +14,17 @@ private:
 public:
     void getmatrix()
     {
-        cout << "Enter Number Of Matrix Row: ";
+        cout << ">> Enter Number Of Matrix Row: ";
         cin >> mat_row;
 
-        cout << "Enter Number Of Matrix Column: ";
+        cout << ">> Enter Number Of Matrix Column: ";
         cin >> mat_col;
 
         for (int i = 0; i < mat_row; i++)
         {
             for (int j = 0; j < mat_col; j++)
             {
-                cout << "Enter Matrix Value For [" << i + 1 << "]"
+                cout << ">> Enter Matrix Value For [" << i + 1 << "]"
                      << "[" << j + 1 << "]: ";
                 cin >> matrix[i][j];
             }
@@ -64,11 +64,11 @@ matrix_class trans(matrix_class m1)
 
 int main()
 {
-    cout << "Created By: Tej Dekiwadiya" << endl
-         << "Github: https://github.com/tejdekiwadiya" << endl
-         << "LinkedIN: https://www.linkedin.com/in/tejdekiwadiya" << endl
-         << "Twitter: https://twitter.com/tejdekiwadiya" << endl
-         << "Instagram: https://instagram.com/tejdekiwadia" << endl
+    cout << ">> Created By: Tej Dekiwadiya" << endl
+         << ">> Github: https://github.com/tejdekiwadiya" << endl
+         << ">> LinkedIN: https://www.linkedin.com/in/tejdekiwadiya" << endl
+         << ">> Twitter: https://twitter.com/tejdekiwadiya" << endl
+         << ">> Instagram: https://instagram.com/tejdekiwadia" << endl
          << endl;
 
     matrix_class m1, m2;
